@@ -13,3 +13,6 @@
 5. Do this for all classes.
 
 6. Now run the file 'Facerecognition.py'.
+
+## PROJECT DEMO:
+![Working](https://github.com/shatakshisingh24/Realtime-Face-recogntion-using-KNN/blob/main/working.jpeg?raw=true)
